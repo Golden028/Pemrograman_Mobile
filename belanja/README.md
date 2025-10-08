@@ -1,16 +1,28 @@
-# belanja
+# Assignment 2
 
-A new Flutter project.
+![img](img/lib.png)
 
-## Getting Started
+![img](img/item.png)
 
-This project is a starting point for a Flutter application.
+![img](img/homepage.png)
 
-A few resources to get you started if this is your first Flutter project:
+![img](img/itempage.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![img](img/main.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![img](img/images.png)
+
+![img](img/assets.png)
+
+![img](img/dependencies.png)
+
+
+## Result 1
+![img](img/result1.png)
+
+## Result 2
+![img](img/result2.png)
+
+## Result 3
+![img](img/result3.png)

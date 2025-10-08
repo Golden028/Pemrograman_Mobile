@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(
-              'images/rinjani.png',
+              'images/rinjani.jpg',
               width: double.infinity,
               height: 240,
               fit: BoxFit.cover,
