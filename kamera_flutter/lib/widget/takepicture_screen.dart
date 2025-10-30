@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'displaypicture_screen.dart';
-import 'dart:io';
 
 /// A screen that allows users to take a picture using a given camera.
 class TakePictureScreen extends StatefulWidget {

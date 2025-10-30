@@ -1,4 +1,5 @@
 # kamera_flutter
+Practicum 1: Taking Photos with the Camera in Flutter
 
 main.dart
 
@@ -19,7 +20,7 @@ result:
 ![img](img/result-1.png)
 ![img](img/result-2.png)
 
-The void async in Practical 1 is to define the main() function as an asynchronous function that does not return a value (return type void).
+3. The void async in Practical 1 is to define the main() function as an asynchronous function that does not return a value (return type void).
 1. void
 - In Flutter/Dart, void indicates that the function does not return a value after its execution is complete.
 - The main() function itself is traditionally the first function to be executed and does not return a value.
