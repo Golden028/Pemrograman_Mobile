@@ -6,10 +6,10 @@ class PlanProvider extends InheritedNotifier<ValueNotifier<List<Plan>>> {
   
   const PlanProvider({
     super.key, 
-    required Widget child, 
+    required super.child, 
     //  Ubah dari Plan menjadi List<Plan>
-    required ValueNotifier<List<Plan>> notifier
-  }) : super(child: child, notifier: notifier);
+    required ValueNotifier<List<Plan>> super.notifier
+  });
 
   //  Ubah dari Plan menjadi List<Plan>
   static ValueNotifier<List<Plan>> of(BuildContext context) {
